@@ -1,0 +1,2 @@
+include ':app', ':consentmodule'
+rootProject.name='ConsentFlags'
